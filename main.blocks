@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="PQUO2:Ris4%Zd*H`?8pE" x="0" y="0"></block><block type="device_forever" id="2y(z4E4#L(]JD),WUj*]" x="205" y="0"></block><block type="device_button_event" id="3[_ikD@%(+ZGz#N]ncIe" x="15" y="148"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="t@Ozd[)I@sD?wsH1k4.}"><value name="COND"><shadow type="logic_boolean" id="e?QdBjP=v2k[{yrztJa9"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_pause" id="n}6b+H3B}NLzWh}QXaC~"><value name="pause"><shadow type="timePicker" id="o(ZL3doASQ2h7S$TNK5e"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="o*DuHTBU)P.9b4BV3Uvs"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="trR.0LdVGYF2.JI$1#7s"><value name="pause"><shadow type="timePicker" id="jm!Uh*5o!uI.EJ)j(nsq"><field name="ms">500</field></shadow></value></block></next></block></next></block></statement><next><block type="device_clear_display" id="C3gW/d^j(KOs,8(=`!uk"></block></next></block></statement></block></xml>
